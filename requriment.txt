@@ -1,0 +1,14 @@
+langchain-community
+python-dotenv
+typesense
+langchain 
+langchain-core
+pypdf
+pymupdf
+sentence-transformers
+langgraph
+langchain-openai
+typesense
+chromadb
+faiss-cpu
+langchain-groq
